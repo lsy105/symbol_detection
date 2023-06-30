@@ -1,0 +1,5 @@
+Case		no_freq_comp		freq_offset_comp
+S1		0.02450			0.02215
+S2		0.01804			0.00847
+S3		0.00653			0.00505
+
